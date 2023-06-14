@@ -1,0 +1,1 @@
+Why JavaScript is Amazing!
